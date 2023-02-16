@@ -1,4 +1,38 @@
-### Hi there 👋
+## About me 😎
+I am a systems development technician, trained as a backend software developer and I am passionate about learning every day and facing new challenges.
+learning every day and facing new challenges.
+
+### 💻 Tech Stack
+
+### Lenguajes
+
+* Java (8+)
+* JavaScript (Basic)
+* SQL
+
+### Frameworks
+
+* Spring 6
+* Spring Boot 3
+* Angular
+* Hibernate
+
+### Software
+
+* Docker
+* SonarQube
+
+### Databases
+
+#### Relational
+
+* MySQL
+* PostgreSQL
+* SQLServer
+
+#### Non-Relational
+
+* MongoDb
 
 <!--
 **swagerich/swagerich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
