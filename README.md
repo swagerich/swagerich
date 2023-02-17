@@ -1,6 +1,5 @@
 ## About me 😎
 I am a systems development technician, trained as a backend software developer and I am passionate about learning every day and facing new challenges.
-learning every day and facing new challenges.
 
 ### 💻 Tech Stack
 
@@ -21,6 +20,7 @@ learning every day and facing new challenges.
 
 * Docker
 * SonarQube
+* Navicad
 
 ### Databases
 
