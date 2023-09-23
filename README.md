@@ -19,7 +19,7 @@ I am a systems development technician, trained as a backend software developer a
 
 * Docker
 * SonarQube
-* Navicad
+* Navicat
 
 ### Databases
 
