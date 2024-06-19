@@ -35,6 +35,7 @@ I am a systems development technician, trained as a backend software developer a
 #### Non-Relational
 
 * MongoDb
+* Redis
 
 <!--
 **swagerich/swagerich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
