@@ -6,14 +6,17 @@ I am a systems development technician, trained as a backend software developer a
 
 * Java (8+)
 * JavaScript (Basic)
+* TypeScript
 * SQL
 
 ### Frameworks
 
 * Spring 6
 * Spring Boot 3
-* Angular
-* Hibernate
+* Spring Cloud
+* Spring WebFlux
+* Angular (12+)
+* Hibernate 6
 
 ### Software
 
@@ -27,7 +30,7 @@ I am a systems development technician, trained as a backend software developer a
 
 * MySQL
 * PostgreSQL
-* SQLServer
+* OracleSQL
 
 #### Non-Relational
 
