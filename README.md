@@ -15,6 +15,8 @@ I am a systems development technician, trained as a backend software developer a
 * Spring Boot 3
 * Spring Cloud
 * Spring WebFlux
+* Spring for GraphQL
+* Spring HATEOAS
 * Angular (12+)
 * Hibernate 6
 
